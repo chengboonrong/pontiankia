@@ -1,0 +1,316 @@
+[
+    {
+        "formatted_address": "Wisma Koperasi, 742, Jalan Taib, Kampung Atap, 82000 Pontian Kechil, Johor, Malaysia",
+        "formatted_phone_number": "07-687 1533",
+        "name": "CIMB Bank Pontian Kechil",
+        "opening_hours": {
+            "weekday_text": [
+                "Monday: 9:15 AM \u2013 4:30 PM",
+                "Tuesday: 9:15 AM \u2013 4:30 PM",
+                "Wednesday: 9:15 AM \u2013 4:30 PM",
+                "Thursday: 9:15 AM \u2013 4:30 PM",
+                "Friday: 9:15 AM \u2013 4:00 PM",
+                "Saturday: Closed",
+                "Sunday: Closed"
+            ]
+        },
+        "rating": 4.6,
+        "url": "https://maps.google.com/?cid=5138309204164568692"
+    },
+{
+        "formatted_address": "29, Jalan Delima, Pusat Perdagangan Pontian, 82000 Pontian, Johor, Malaysia",
+        "formatted_phone_number": "07-688 1909",
+        "name": "Bank Islam",
+        "opening_hours": {
+            "weekday_text": [
+                "Monday: 9:30 AM \u2013 4:30 PM",
+                "Tuesday: 9:30 AM \u2013 4:30 PM",
+                "Wednesday: 9:30 AM \u2013 4:30 PM",
+                "Thursday: 9:30 AM \u2013 4:30 PM",
+                "Friday: 9:30 AM \u2013 12:30 PM, 2:30 \u2013 4:30 PM",
+                "Saturday: Closed",
+                "Sunday: Closed"
+            ]
+        },
+        "rating": 3.8,
+        "url": "https://maps.google.com/?cid=8278237027934252932",
+        "website": "http://www.bankislam.com.my/"
+    },
+{
+        "formatted_address": "Pusat Perdagangan Pontian, 82000 Pontian Kecil, Johor, Malaysia",
+        "formatted_phone_number": "07-687 8368",
+        "name": "RHB Bank",
+        "opening_hours": {
+            "weekday_text": [
+                "Monday: 9:15 AM \u2013 4:15 PM",
+                "Tuesday: 9:15 AM \u2013 4:15 PM",
+                "Wednesday: 9:15 AM \u2013 4:15 PM",
+                "Thursday: 9:15 AM \u2013 4:15 PM",
+                "Friday: 9:15 AM \u2013 4:15 PM",
+                "Saturday: Closed",
+                "Sunday: Closed"
+            ]
+        },
+        "url": "https://maps.google.com/?cid=3206080242464040918",
+        "website": "http://www.rhbgroup.com/"
+    },
+{
+        "formatted_address": "761, Jalan Taib, Kampung Atap, 82000 Pontian, Johor, Malaysia",
+        "formatted_phone_number": "07-687 9601",
+        "name": "Public Bank",
+        "opening_hours": {
+            "weekday_text": [
+                "Monday: 9:30 AM \u2013 4:00 PM",
+                "Tuesday: 9:30 AM \u2013 4:00 PM",
+                "Wednesday: 9:30 AM \u2013 4:00 PM",
+                "Thursday: 9:30 AM \u2013 4:00 PM",
+                "Friday: 9:30 AM \u2013 4:00 PM",
+                "Saturday: Closed",
+                "Sunday: Closed"
+            ]
+        },
+        "rating": 5,
+        "url": "https://maps.google.com/?cid=17216900203293994160",
+        "website": "https://www.pbebank.com/"
+    },
+{
+        "formatted_address": "Pontian Kechil Afc, Lot 7 8 9 & 10 Jalan Delima 5, Pusat Perdagangan Pontian, Pusat Perdagangan Pontian, 82000 Pontian District, Johor, Malaysia",
+        "formatted_phone_number": "07-687 1271",
+        "name": "Maybank",
+        "opening_hours": {
+            "weekday_text": [
+                "Monday: 9:15 AM \u2013 4:30 PM",
+                "Tuesday: 9:15 AM \u2013 4:30 PM",
+                "Wednesday: 9:15 AM \u2013 4:30 PM",
+                "Thursday: 9:15 AM \u2013 4:30 PM",
+                "Friday: 9:15 AM \u2013 4:00 PM",
+                "Saturday: Closed",
+                "Sunday: Closed"
+            ]
+        },
+        "rating": 5,
+        "url": "https://maps.google.com/?cid=16117343610692165736",
+        "website": "http://www.maybank2u.com.my/"
+    },
+{
+        "formatted_address": "GROUND FLOOR 14G & 15G PUSAT PERDAGANGAN 83000, Jln Delima 5, Pusat Perdagangan Pontian, 82000 Pontian, Johor, Malaysia",
+        "formatted_phone_number": "019-699 3369",
+        "name": "Bank Simpanan Nasional",
+        "opening_hours": {
+            "weekday_text": [
+                "Monday: 9:15 AM \u2013 4:00 PM",
+                "Tuesday: Open 24 hours",
+                "Wednesday: Open 24 hours",
+                "Thursday: Open 24 hours",
+                "Friday: Closed",
+                "Saturday: Open 24 hours",
+                "Sunday: Open 24 hours"
+            ]
+        },
+        "rating": 3,
+        "url": "https://maps.google.com/?cid=9858646233836502894",
+        "website": "http://www.mybsn.com.my/"
+    },
+{
+        "formatted_address": "916, Ground Floor, Jalan Bakek, Kampung Atap, 82000 Pontian, Johor, Malaysia",
+        "formatted_phone_number": "07-686 1121",
+        "name": "Kenanga Investment Bank Berhad",
+        "opening_hours": {
+            "weekday_text": [
+                "Monday: 8:30 AM \u2013 5:30 PM",
+                "Tuesday: 8:30 AM \u2013 5:30 PM",
+                "Wednesday: 8:30 AM \u2013 5:30 PM",
+                "Thursday: 8:30 AM \u2013 5:30 PM",
+                "Friday: 8:30 AM \u2013 5:30 PM",
+                "Saturday: Closed",
+                "Sunday: Closed"
+            ]
+        },
+        "rating": 4.5,
+        "url": "https://maps.google.com/?cid=8739018366750061704",
+        "website": "http://www.kenanga.com.my/"
+    },
+{
+        "formatted_address": "663;;664, Jalan Taib Utama, Kampung Atap, 82000 Pontian, Johor, Malaysia",
+        "formatted_phone_number": "07-687 6388",
+        "name": "Ambank",
+        "opening_hours": {
+            "weekday_text": [
+                "Monday: 9:00 AM \u2013 4:30 PM",
+                "Tuesday: 9:00 AM \u2013 4:30 PM",
+                "Wednesday: 9:00 AM \u2013 4:30 PM",
+                "Thursday: 9:00 AM \u2013 4:30 PM",
+                "Friday: 9:00 AM \u2013 4:00 PM",
+                "Saturday: Closed",
+                "Sunday: 9:30 AM \u2013 12:30 PM"
+            ]
+        },
+        "rating": 2.3,
+        "url": "https://maps.google.com/?cid=13684203578469261487",
+        "website": "http://www.ambankgroup.com/"
+    },
+{
+        "formatted_address": "660-1, Jalan Taib Utama, Kampung Atap, 82000 Pontian, Johor, Malaysia",
+        "formatted_phone_number": "07-699 5325",
+        "name": "Agrobank Pontian",
+        "rating": 5,
+        "url": "https://maps.google.com/?cid=8487246778967260139"
+    },
+{
+        "formatted_address": "11, Jln Delima 2, Pusat Perdagangan Pontian, 82000 Pontian, Johor, Malaysia",
+        "formatted_phone_number": "07-687 1515",
+        "name": "Bank Rakyat Pontian",
+        "opening_hours": {
+            "weekday_text": [
+                "Monday: 9:00 AM \u2013 5:00 PM",
+                "Tuesday: 9:00 AM \u2013 5:00 PM",
+                "Wednesday: 9:00 AM \u2013 5:00 PM",
+                "Thursday: 9:00 AM \u2013 5:00 PM",
+                "Friday: 9:00 AM \u2013 12:45 PM, 2:30 \u2013 5:15 PM",
+                "Saturday: Closed",
+                "Sunday: Closed"
+            ]
+        },
+        "rating": 4.3,
+        "url": "https://maps.google.com/?cid=11951655265572849426",
+        "website": "http://www.bankrakyat.com.my/"
+    },
+{
+        "formatted_address": "Pusat Perdagangan Pontian, 82000 Pontian Kecil, Johor, Malaysia",
+        "formatted_phone_number": "019-699 3369",
+        "name": "BSN DAERAH PONTIAN",
+        "opening_hours": {
+            "weekday_text": [
+                "Monday: 9:00 AM \u2013 4:30 PM",
+                "Tuesday: 9:00 AM \u2013 4:30 PM",
+                "Wednesday: 9:00 AM \u2013 4:30 PM",
+                "Thursday: 9:00 AM \u2013 4:30 PM",
+                "Friday: Closed",
+                "Saturday: Closed",
+                "Sunday: 9:00 AM \u2013 4:30 PM"
+            ]
+        },
+        "rating": 3,
+        "url": "https://maps.google.com/?cid=15431122227088529409",
+        "website": "http://www.mybsn.com.my/"
+    },
+{
+        "formatted_address": "Bangunan Tabung Haji, No.453, Jalan Al-Sagoff, Johor, Kampung Atap, 82000 Pontian District, Johor, Malaysia",
+        "formatted_phone_number": "03-2690 0900",
+        "name": "Bank Islam Malaysia Berhad",
+        "rating": 3.5,
+        "url": "https://maps.google.com/?cid=8761631694551185449"
+    },
+{
+        "formatted_address": "No. 660-1, Jalan Taib, Wisma Rokijah, 82000, Pontian, Johor, Kampung Atap, 82000 Pontian District, Johor, Malaysia",
+        "formatted_phone_number": "07-687 1955",
+        "name": "Bank Pertanian Malaysia Berhad @ Pontian",
+        "url": "https://maps.google.com/?cid=130990301702092469"
+    },
+{
+        "formatted_address": "No 25, Jln Delima 2, Pusat Perdagangan Pontian, 82000 Pontian, Johor, Malaysia",
+        "formatted_phone_number": "07-688 2004",
+        "name": "AR RAHNU YaPEIM PONTIAN",
+        "opening_hours": {
+            "weekday_text": [
+                "Monday: 9:00 AM \u2013 4:30 PM",
+                "Tuesday: 9:00 AM \u2013 4:30 PM",
+                "Wednesday: 9:00 AM \u2013 4:30 PM",
+                "Thursday: 9:00 AM \u2013 4:30 PM",
+                "Friday: 9:00 AM \u2013 4:30 PM",
+                "Saturday: Closed",
+                "Sunday: Closed"
+            ]
+        },
+        "rating": 5,
+        "url": "https://maps.google.com/?cid=6627376110995935664"
+    },
+{
+        "formatted_address": "No. 8029, Jalan Bakek, Johor, Kampung Atap, 82000 Pontian District, Johor, Malaysia",
+        "formatted_phone_number": "07-688 2877",
+        "name": "Hong Leong Bank Bhd",
+        "url": "https://maps.google.com/?cid=13723729360698924136"
+    },
+{
+        "formatted_address": "SH, 49, Jalan Besar, Kampung Masjid, 81500 Pekan Nanas, Johor, Malaysia",
+        "formatted_phone_number": "07-699 3377",
+        "name": "Bank Simpanan Nasional",
+        "opening_hours": {
+            "weekday_text": [
+                "Monday: 9:00 AM \u2013 4:45 PM",
+                "Tuesday: 9:00 AM \u2013 4:45 PM",
+                "Wednesday: 9:00 AM \u2013 4:45 PM",
+                "Thursday: 9:00 AM \u2013 4:30 PM",
+                "Friday: Closed",
+                "Saturday: Closed",
+                "Sunday: 9:00 AM \u2013 4:45 PM"
+            ]
+        },
+        "rating": 3,
+        "url": "https://maps.google.com/?cid=7943796021778683908",
+        "website": "http://www.mybsn.com.my/"
+    },
+{
+        "formatted_address": "Petronas Sungai Gurap, No. Lot 1035 GM 2243, Jalan Johor, Mukim Rimba Terjun, Johor, Kampung Duku, 82000 Pontian District, Johor, Malaysia",
+        "formatted_phone_number": "03-9206 8118",
+        "name": "RHB Bank",
+        "opening_hours": {
+            "weekday_text": [
+                "Monday: 9:00 AM \u2013 6:00 PM",
+                "Tuesday: 9:00 AM \u2013 6:00 PM",
+                "Wednesday: 9:00 AM \u2013 6:00 PM",
+                "Thursday: 9:00 AM \u2013 6:00 PM",
+                "Friday: 9:00 AM \u2013 6:00 PM",
+                "Saturday: Closed",
+                "Sunday: Closed"
+            ]
+        },
+        "rating": 5,
+        "url": "https://maps.google.com/?cid=9319037295836685382"
+    },
+{
+        "formatted_address": "14, Jalan Besar, Taman Nusantara, 81550 Gelang Patah, Johor, Malaysia",
+        "formatted_phone_number": "07-510 4188",
+        "name": "Hong Leong Bank @ Gelang Patah",
+        "opening_hours": {
+            "weekday_text": [
+                "Monday: 9:15 AM \u2013 4:30 PM",
+                "Tuesday: 9:15 AM \u2013 4:30 PM",
+                "Wednesday: 9:15 AM \u2013 4:30 PM",
+                "Thursday: 9:15 AM \u2013 4:30 PM",
+                "Friday: 9:15 AM \u2013 4:00 PM",
+                "Saturday: Closed",
+                "Sunday: Closed"
+            ]
+        },
+        "rating": 2.7,
+        "url": "https://maps.google.com/?cid=2780149650417236972",
+        "website": "https://www.hlb.com.my/en/personal-banking/help-support/branch-locator.html"
+    },
+{
+        "formatted_address": "Wisma Koperasi, No. 742, Jalan Taib, 82000, Pontian Kechil, Johor, Malaysia, Kampung Atap, 82000 Pontian Kechil, Johor, Malaysia",
+        "formatted_phone_number": "07-687 1533",
+        "name": "CIMB Bank Berhad - ATM",
+        "url": "https://maps.google.com/?cid=16126084656309263616",
+        "website": "https://www.cimbbank.com.my/"
+    },
+{
+        "formatted_address": "3-4, Jalan Johor, Pekan Nenas, 81500 Pekan Nanas, Johor, Malaysia",
+        "formatted_phone_number": "07-699 1048",
+        "name": "Maybank Pekan Nenas",
+        "opening_hours": {
+            "weekday_text": [
+                "Monday: 9:15 AM \u2013 4:30 PM",
+                "Tuesday: 9:15 AM \u2013 4:30 PM",
+                "Wednesday: 9:15 AM \u2013 4:30 PM",
+                "Thursday: 9:15 AM \u2013 4:30 PM",
+                "Friday: 9:15 AM \u2013 4:00 PM",
+                "Saturday: Closed",
+                "Sunday: Closed"
+            ]
+        },
+        "rating": 3.9,
+        "url": "https://maps.google.com/?cid=12105658395254384939",
+        "website": "http://www.maybank2u.com.my/"
+    }
+]
